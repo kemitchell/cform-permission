@@ -1,0 +1,7 @@
+{ "commonform": "0.6.0",
+  "form": {
+    "content": [
+      { "definition": "Permission" },
+      " means advance ",
+      { "use": "Notice" },
+      " of permission." ] } }
